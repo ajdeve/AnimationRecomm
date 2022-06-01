@@ -26,6 +26,8 @@ Problem Statement: Create a recommendation engine for animation consumers given 
 - Wordcloud
 - Plotly
 
+![image](Models.png)
+
 ## Models
 1. Content Based Model (SpaCy NLP pipeline to clean data, Count Vectorizor and Cosine Similarity)
 2. Collaborative Filtering Model (User-based and item-based)
