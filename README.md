@@ -10,7 +10,7 @@ Problem Statement: Create a recommendation engine for animation consumers given 
 ## Data 
 **Source:**  https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020?select=rating_complete.csv
 
-**Dataset Profile:** This dataset contains 57 Million ratings applied to 16872 animes by 310.059 users.
+**Dataset Profile:** This dataset contains 57 Million ratings applied to 16872 animes by 310059 users.
 - anime.csv
 - anime_with_synopsis.csv
 - animelist.csv
