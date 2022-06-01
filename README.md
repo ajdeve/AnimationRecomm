@@ -28,12 +28,11 @@ Problem Statement: Create a recommendation engine for animation consumers given 
 
 ## Models
 1. Content Based Model (SpaCy NLP pipeline to clean data, Count Vectorizor and Cosine Similarity)
-2. Collaborative Filtering Model
-3. Keras (Dot Product & CNN Model) 
+2. Collaborative Filtering Model (User-based and item-based)
+3. Keras (Dot Product & CNN Model) Rating Prediction 
 
 ## Project Folder Structure
 ### Models
-- Content-based (Synopsis) 
-- Collaborative-filtering (User-based and item-based)
-- Rating Prediction Powered by Deep Learing
-
+- Content Based Rec System.ipynb 
+- Collaborative Filtering User-based and Item-based .ipynb
+- DL Based Recomm.ipynb
